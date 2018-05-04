@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Untitled1.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,C:\Users\SileNTViP\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Room.pas=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\SileNTViP\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,C:\Users\SileNTViP\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,C:\Users\SileNTViP\Documents\RAD Studio\Projects\MyLibs\AGC.Sprite.pas=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Users\SileNTViP\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\AGSTool.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Room.dfm=C:\Users\SileNTViP\Documents\RAD Studio\Projects\AGS Tool\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
